@@ -56,7 +56,7 @@ This repository contains automated test scripts using Selenium WebDriver with Ja
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/selenium-automation.git
+   git clone https://github.com/Ashish-ranjan82/Selenium-Projects
    cd selenium-automation
    ```
 
