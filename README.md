@@ -1,7 +1,3 @@
-Here's a template for your GitHub README file:
-
----
-
 # Selenium Automation with Java & TestNG
 
 This repository contains automated test scripts using Selenium WebDriver with Java and TestNG for the following scenarios:
